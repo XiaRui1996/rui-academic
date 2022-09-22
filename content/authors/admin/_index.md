@@ -1,39 +1,40 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Rui Xia
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Student in Machine Learning
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Cambridge, Computational and Biological Learning Lab
+    url: https://www.cbl-cambridge.org
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include meta-learning, probablistic modelling, neuroscience, explainable AI and causal inference.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Meta Learning
+  - Probablistic Modelling
+  - Biological Learning
+  - Explainable AI
+  - Causal Inference
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Machine Learning
+      institution: University of Cambridge
+    - course: MPhil in Machine Learning and Machine Intelligence, Distinction
+      institution: University of Cambridge
+      year: 2020
+    - course: BSc in Applied Mathematics Speciallized in Mathemtical Modelling and Data Analysis
+      institution: National University of Singapore
+      year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -42,19 +43,19 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: 'mailto:rx220@cam.ac.uk'
+#  - icon: twitter
+#    icon_pack: fab
+#    link: https://twitter.com/GeorgeCushen
+#  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+#    icon_pack: fas
+#    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/XiaRui1996
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: www.linkedin.com/in/rui-xia-567b56150
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -64,14 +65,14 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'rx220@cam.ac.uk'
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a PhD student in Machine Learning at University of Cambridge (Computational and Biological Learning Lab).  My supervisors are [Professor Guillaume Hennequin](https://www.cbl-cambridge.org/people/gjeh2) and [Dr Alberto Bernacchia](https://scholar.google.com/citations?user=n48pFqcAAAAJ&hl=en).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My current project aims to study meta-learning from a dual machine-learning and biological perspective. My research interets also include probabilistic modelling, explainable AI and causal inference. I wish to develop trustworthy algorithms that combines fast and transferable learning, robustness, and interpretability. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
