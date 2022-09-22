@@ -32,7 +32,7 @@ education:
     - course: MPhil in Machine Learning and Machine Intelligence, Distinction
       institution: University of Cambridge
       year: 2020
-    - course: BSc in Applied Mathematics Speciallized in Mathemtical Modelling and Data Analysis
+    - course: BSc in Applied Mathematics, specialised in Mathemtical Modelling and Data Analysis
       institution: National University of Singapore
       year: 2019
 
@@ -71,8 +71,10 @@ email: 'rx220@cam.ac.uk'
 highlight_name: false
 ---
 
-I am a PhD student in Machine Learning at University of Cambridge (Computational and Biological Learning Lab).  My supervisors are [Professor Guillaume Hennequin](https://www.cbl-cambridge.org/people/gjeh2) and [Dr Alberto Bernacchia](https://scholar.google.com/citations?user=n48pFqcAAAAJ&hl=en).
+I am a PhD student in Machine Learning at University of Cambridge ([Computational and Biological Learning Lab](https://www.cbl-cambridge.org)).  My supervisors are [Professor Guillaume Hennequin](https://www.cbl-cambridge.org/people/gjeh2) and [Dr Alberto Bernacchia](https://scholar.google.com/citations?user=n48pFqcAAAAJ&hl=en).
 
 My current project aims to study meta-learning from a dual machine-learning and biological perspective. My research interets also include probabilistic modelling, explainable AI and causal inference. I wish to develop trustworthy algorithms that combines fast and transferable learning, robustness, and interpretability. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!---
+ {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+-->
