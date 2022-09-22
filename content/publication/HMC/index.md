@@ -1,12 +1,12 @@
 ---
-title: 'A Hybrid Causal Structure Learning Algorithm for Mixed-type Data'
+title: 'The Gaussian Process Latent Autoregressive Model'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Yan Li
-  - Rui Xia
+  - admin
   - Chunchen Liu
   - Sun Liang
 
@@ -48,7 +48,7 @@ url_code: 'https://github.com/DAMO-DI-ML/AAAI2022-HCM'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Learned causal graph from credit data set'
   focal_point: ''
   preview_only: false
 
@@ -67,12 +67,4 @@ projects: []
 slides: ""
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+Inferring the causal structure of a set of random variables is a crucial problem in many disciplines of science. Over the past two decades, various approaches have been pro- posed for causal discovery from observational data. How- ever, most of the existing methods are designed for either purely discrete or continuous data, which limit their practical usage. In this paper, we target the problem of causal struc- ture learning from observational mixed-type data. Although there are a few methods that are able to handle mixed-type data, they suffer from restrictions, such as linear assump- tion and poor scalability. To overcome these weaknesses, we formulate the causal mechanisms via mixed structure equa- tion model and prove its identifiability under mild condi- tions. A novel locally consistent score, named CVMIC, is proposed for causal directed acyclic graph (DAG) structure learning. Moreover, we propose an efficient conditional inde- pendence test, named MRCIT, for mixed-type data, which is used in causal skeleton learning and final pruning to further improve the computational efficiency and precision of our model. Experimental results on both synthetic and real-world data demonstrate that our proposed hybrid model outperforms the other state-of-the-art methods. Our source code is available at https://github.com/DAMO-DI-ML/AAAI2022-HCM.
