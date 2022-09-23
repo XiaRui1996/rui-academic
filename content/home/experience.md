@@ -46,7 +46,7 @@ experience:
     company_url: 'https://www.lazada.com/en/about/'
     location: Singapore, Singapore
     date_start: '2018-05-01'
-    date_end: '2018-8-31'
+    date_end: '2018-08-31'
 
   - title: Teaching Assistant
     company: National University of Singapore
