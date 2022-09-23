@@ -34,7 +34,7 @@ experience:
     company: DAMO Academy, Alibaba
     company_url: 'https://damo.alibaba.com'
     location: Hangzhou, China
-    date_start: '2021-07-23'
+    date_start: '2020-07-23'
     date_end: '2022-09-16'
     description: |2-
         * Research on causal inference, including counterfactual regression, causal discovery on mixed-type data, and uncertainty study of Bayesian network structural learning.
