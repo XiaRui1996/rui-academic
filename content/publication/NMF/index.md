@@ -44,7 +44,7 @@ url_slides: 'https://vyftan.github.io/papers/BTL_NMF_LRMA.pdf'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Graphical models for GPAR, GPLAR and bi-GPLAR.'
+  caption: ''
   focal_point: ''
   preview_only: false
 
