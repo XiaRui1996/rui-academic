@@ -1,5 +1,5 @@
 ---
-title: 'The Gaussian Process Latent Autoregressive Model'
+title: 'A Hybrid Causal Structure Learning Algorithm for Mixed-type Data'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -28,8 +28,8 @@ publishDate: '2022-05-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: Association for the Advancement of Artificial Intelligence
-publication_short: In *AAAI*
+publication: Association for the Advancement of Artificial Intelligence, 2022
+publication_short: In *AAAI(2022)*
 
 tags: []
 
