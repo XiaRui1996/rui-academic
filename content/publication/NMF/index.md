@@ -38,8 +38,7 @@ featured: true
 
 url_pdf: 'https://ecmlpkdd2019.org/downloads/paper/44.pdf'
 url_code: 'https://github.com/XiaRui1996/btl-nmf'
-url_slide: 'https://vyftan.github.io/papers/BTL_NMF_LRMA.pdf'
-url_poster: ''
+url_slides: 'https://vyftan.github.io/papers/BTL_NMF_LRMA.pdf'
 
 
 # Featured image
