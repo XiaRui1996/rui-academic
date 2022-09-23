@@ -40,6 +40,7 @@ featured: true
 url_pdf: 'https://openreview.net/pdf?id=kvq3WKXvwQ_'
 url_code: 'https://github.com/XiaRui1996/GPLAR'
 url_vedio: 'https://www.youtube.com/watch?v=BrBc8lbEKgc'
+url_thesis: 'https://www.mlmi.eng.cam.ac.uk/files/2019-2020_dissertations/gaussian_process_latent_autoregressive_model.pdf'
 
 
 # Featured image
