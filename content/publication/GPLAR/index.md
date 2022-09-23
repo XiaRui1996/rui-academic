@@ -33,7 +33,7 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
- links:
+links:
  - name: MPhil Thesis
    url: https://www.mlmi.eng.cam.ac.uk/files/2019-2020_dissertations/gaussian_process_latent_autoregressive_model.pdf
 
